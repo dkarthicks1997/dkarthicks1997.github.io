@@ -1,19 +1,15 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Dataworkz
+  position: Data Scientist
+  duration: Jun, 2022 &mdash; Present
+  summary: Leading initiatives in Graph-based RAG, LLM fine-tuning, and intelligent query routing systems for enterprise AI applications. Focused on combining knowledge graphs and generative AI for more accurate, contextual responses. <ul class="resume-item-list"> <li>Built Graph RAG systems using Neo4j, NetworkX, and MongoDB with Node2Vec for structured knowledge extraction</li> <li>Designed a multi-hop question generator and optimized LLM-based query routing (F1-score 0.959)</li> <li>Worked on tool-creator engines, agentic RAG, and domain-specific entity extraction using SLMs</li> </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Mobicip Technologies
+  position: Full Stack Data Scientist
+  duration:  Aug, 2021 &mdash; Oct, 2022
+  summary: Bridged full-stack development with data science, contributing to both frontend and backend architecture for parental control applications. <ul class="resume-item-list"> <li>Built APIs for signup and subscription systems using Ruby on Rails</li> <li>Designed and implemented the database schema for the Admin Portal</li> <li>Streamlined FAQ data processing through custom scripts and data cleaning pipelines</li> </ul>
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Equator Technologies
+  position: Junior Data Scientist
+  duration:   Mar, 2019  &mdash; Jul, 2021
+  summary: Developed ML solutions for document classification, deduplication, and conceptual search across massive datasets. <ul class="resume-item-list"> <li>Built and deployed 4 end-to-end ML projects handling over 1.5M text documents</li> <li>Implemented MinHash and LSH for scalable document deduplication</li> <li>Developed conceptual search engine using shingling and efficient hashing techniques</li> </ul>

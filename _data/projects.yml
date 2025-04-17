@@ -1,16 +1,25 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Graph RAG - Hybrid Retrieval for Enterprise AI
+  role: Architect & Developer 
+  duration: Nov, 2024 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Designed and deployed a Graph-based Retrieval-Augmented Generation system for enterprise use cases, leveraging Neo4j, Node2Vec, and NetworkX to improve retrieval efficiency and support multi-hop question answering.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Agentic RAG with Query Routing Optimization
+  role: ML Engineer
+  duration: Feb, 2024 &mdash; June, 2024
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Built an Agentic RAG system integrating dynamic tool use with optimized query routing techniques including LLM-based, embedding-based, and dependency parsing methods. Achieved peak F1-score of 0.959 for query classification.
+
+- project: Fine-tuning Multiple LLMs for Domain-Specific Tasks
+  role: ML Researcher
+  duration: Mar, 2023 &mdash; Aug, 2023
+  # url: "#"
+  description: Researched and fine-tuned LLMs (Llama3, GPT) for QA and summarization tasks using few-shot learning, BERTScore, and context-aware embeddings. Achieved a 30% improvement in response relevance using vectorized storage in MongoDB and Couchbase.
+
+- project: Large Scale Near Duplicate Identification
+  role: Developer & Researcher
+  duration: Oct, 2020 &mdash; Apr, 2021
+  # url: "#"
+  description: Implemented a scalable near-duplicate document detection system using Locality Sensitive Hashing (LSH) and shingling to process 1.6 million documents. Achieved O(1) document querying with optimized LSH configuration.

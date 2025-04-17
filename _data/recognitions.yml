@@ -1,10 +1,19 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Intro to GraphRAG with Neo4j
+  organization: JAVAFEST
+  year: 2025
+  link: https://www.youtube.com/watch?v=1mhTXPYoREA
+  link_header: Watch it on YouTube
+  summary: Presented a live demo exploring Graph-based Retrieval-Augmented Generation (Graph RAG) using Neo4j as a backend, highlighting its strengths in knowledge-intensive AI workflows.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Nitty Gritty Details on Data Science
+  organization: EPAM
+  year: 2021
+  summary: Delivered a deep dive into Locality Sensitive Hashing (LSH), classification evaluators, and metrics, with performance comparisons for large-scale text mining systems.
+
+- award: String Manipulation Techniques After Java 8
+  organization: DEVON
+  year: 2023
+  link: https://www.youtube.com/watch?v=VslkjbkeTY4
+  link_header: A short clip on YouTube
+  summary: Compared performance of string manipulation techniques introduced in Java 8+, using JMH benchmarks to assess efficiency across various approaches.
