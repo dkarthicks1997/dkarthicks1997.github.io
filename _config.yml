@@ -23,8 +23,7 @@ resume_contact_address:         "None"
 resume_header_contact_info:     "None"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hey! I’m Karthick — a data scientist who loves building smart AI systems. I’ve worked on everything from Graph RAGs and multi-hop Q&A to fine-tuning LLMs for real-world tasks. I’m also into teaching, experimenting with cool tech, and making sense of messy data.</p>"
-
+resume_header_intro: "<p>A seasoned <b>data scientist</b> with a background in full-stack software development. I’ve built end-to-end systems, explored the entire tech stack, and eventually found my passion in data and AI. Since then, I’ve worked on impactful projects like Graph RAGs, Agents to address multi-hop Q&A problems, and have fine-tuned LLMs using PEFT. I enjoy turning complex data into smart, real-world solutions—and I’m always experimenting, teaching, and learning along the way.</p>"
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
@@ -47,7 +46,7 @@ resume_section_associations:    true
 resume_social_links:
   resume_github_url:            "https://github.com/dkarthicks27"
   resume_linkedin_url:          "https://www.linkedin.com/in/karthick-durai-618701123/"
-  resume_website_url:           "https://insightoh.com/"
+  resume_website_url:           "https://karthickdurai.cloud/"
 resume_print_social_links:      true
 
 # Design settings
