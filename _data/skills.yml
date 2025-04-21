@@ -2,26 +2,34 @@
 # Organizational leadership
 - skill: Machine Learning & Deep Learning
   description: Proficient in building and deploying machine learning models using frameworks like TensorFlow, PyTorch, and scikit-learn. Experienced in training SVMs, logistic regression, clustering models, and fine-tuning LLMs for real-world applications.
+  rating: 4
 
 # Communications strategy
 - skill: Natural Language Processing (NLP)
   description: Skilled in entity extraction, text classification, summarization, and conceptual search using tools such as HuggingFace Transformers, SpaCy, Gensim, and NLTK. Applied NLP techniques in both traditional and neural network-based systems.
+  rating: 5
 
 # Digital content development and creation
 - skill: Graph AI & Knowledge Graphs
   description: Built enterprise-grade Graph RAG systems and multi-hop question answering pipelines using Neo4j, NetworkX, and Node2Vec. Designed custom query routers and graph traversal methods for efficient retrieval.
+  rating: 4
 
 - skill: Data Engineering & Pipelines
   description: Experienced in building scalable data pipelines with PySpark, Airflow, and Pandas. Developed robust preprocessing systems for large-scale text and tabular data.
+  rating: 3
 
 - skill: Full Stack Development
   description: Developed APIs and admin interfaces using Ruby on Rails, MySQL, JavaScript, and HTML. Implemented backend logic and designed database schemas to support scalable applications.
+  rating: 3
 
 - skill: Programming & Scripting
   description: Expert in Python, with working knowledge of Ruby, SQL, and JavaScript. Strong understanding of data structures, algorithms, and efficient coding practices for AI and backend development.
+  rating: 5
 
 - skill: LLMs & RAG Systems
   description: Specialized in Retrieval-Augmented Generation (RAG), agentic RAG, and embedding-based search. Integrated OpenAI, LLaMA, and custom SLMs into production systems with optimized routing and accuracy.
+  rating: 4
 
 - skill: Teaching & Mentorship
   description: Passionate educator and visiting professor with experience delivering lectures on data science, NLP, and AI topics. Skilled in breaking down complex topics for diverse audiences.
+  rating: 5
